@@ -19,24 +19,24 @@ Este projeto tem como objetivo aplicar práticas de Garantia da Qualidade (QA) e
 
 ### 📌 Itens Entregues no Projeto
 
- User Stories
+- User Stories
 
- Plano de Teste
+- Plano de Teste
 
- Matriz de Rastreabilidade
+- Matriz de Rastreabilidade
 
- Matriz de Risco
+- Matriz de Risco
 
- Tabela de Decisão
+- Tabela de Decisão
 
- Mapa Mental
+- Mapa Mental
 
- Casos de Teste Manuais (Qality)
+- Casos de Teste Manuais (Qality)
 
- Coleção de Testes Postman
+- Coleção de Testes Postman
 
- Relatório de Testes via Newman
+- Relatório de Testes via Newman
 
- Documentação em Confluence
+- Documentação em Confluence
 
- Gerenciamento de tarefas via Jira
+- Gerenciamento de tarefas via Jira
